@@ -1,5 +1,5 @@
 
-public class singleDarray{
+public class doubleDarray{
     public static void main(String[] args) {
         int[][] j = new int[3][5];
         j[0][0] = 1;
